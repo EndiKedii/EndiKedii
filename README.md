@@ -1,16 +1,12 @@
 <h1 align="center">👋 Merhaba, Ben EndiKedii!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EndiKedii&style=flat-square&color=blue" alt="Profil Görüntülenme Sayacı" />
-</p>
-
-<p align="center">
-  💻 Yazılım dünyasında kendimi geliştiren, projeler üreten ve öğrenmeye tutkulu bir geliştiriciyim.
+  Kendim ve çevrem için faydalı projeler geliştiren bir yazılım meraklısıyım 🚀
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 💻 Hakkımda
 * 🔭 **Şu an üzerinde çalıştığım proje:** Build Battle
 * 🌱 **Odaklandığım teknolojiler:** Python, Java, HTML, C#
 * 🎯 **Hedefim:** Yazılım alanında kendimi sürekli geliştirerek daha büyük ve etkili projelere imza atmak.
@@ -32,11 +28,8 @@
 
 ---
 
-### 💡 Günün Sözü
-
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=radical" />
-</p>
+### 💡 Günün Motive Edici Sözü
+> *"Kod yazmak sadece bilgisayara komut vermek değil, dijital dünyada yeni şeyler inşa etmektir."*
 
 ---
 
