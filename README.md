@@ -1,110 +1,94 @@
-<h1 align="center">Hey, I'm Endi 👋</h1><p align="center">
-  <strong>Software Developer • Minecraft Developer • Game Creator</strong>
+<h1 align="center">Merhaba, Ben Endi 👋</h1><p align="center">
+  <strong>Yazılım Geliştirici • Minecraft Geliştirici • Oyun Geliştirici</strong>
 </p><p align="center">
   <a href="https://github.com/EndiKedii">
-    <img src="https://img.shields.io/github/followers/EndiKedii?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://img.shields.io/github/followers/EndiKedii?label=Takipçi&style=for-the-badge&logo=github&color=181717" />
   </a>
   <a href="https://github.com/EndiKedii?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-2E9EF7?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Projelerimi%20G%C3%B6r-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+projects+%F0%9F%9A%80;Minecraft+Plugin+Developer+%E2%9A%94%EF%B8%8F;Game+%26+Software+Developer+%F0%9F%92%BB;Always+learning.+Always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fikirleri+ger%C3%A7ek+projelere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum+%F0%9F%9A%80;Minecraft+geli%C5%9Ftiriyorum+%E2%9B%8F%EF%B8%8F;Oyun+ve+yaz%C4%B1l%C4%B1m+geli%C5%9Ftiriyorum+%F0%9F%92%BB;Her+g%C3%BCn+%C3%B6%C4%9Freniyor%2C+her+g%C3%BCn+%C3%BCretiyorum." />
 </p>---
 
-👨‍💻 About Me
+👨‍💻 Hakkımda
 
-I'm Endi, a software developer who enjoys turning ideas into real, playable and useful projects.
+Ben Endi. Fikirleri gerçek, kullanışlı ve eğlenceli projelere dönüştürmeyi seven bir yazılım geliştiriciyim.
 
-I mainly work with Java, C#, Python and Web Technologies, with a strong interest in Minecraft development, game systems and custom software.
+Ağırlıklı olarak Java, C#, Python ve web teknolojileri ile çalışıyorum. Özellikle Minecraft geliştirme, oyun sistemleri ve özel yazılım projeleri ilgimi çekiyor.
 
-💻 Software Development
-🎮 Game Development
-⛏️ Minecraft Plugins & Systems
-🌐 Web Development
-🧠 Learning & Experimenting
-🚀 Building new ideas
-
-Currently
-
-- 🔭 Working on Build Battle
-- 🧩 Developing custom Minecraft systems & plugins
-- 🌱 Improving my skills in Java, C#, Python & JavaScript
-- 🎮 Exploring game development
-- 💡 Turning random ideas into actual projects
-- 🎧 Coding with music, always
+💻 Yazılım Geliştirme
+🎮 Oyun Geliştirme
+⛏️ Minecraft Plugin & Sistem Geliştirme
+🌐 Web Geliştirme
+🧠 Yeni Teknolojiler Öğrenme
+🚀 Yeni Fikirleri Projeye Dönüştürme
 
 ---
 
-🛠️ Tech Stack
+🔭 Şu An Ne Yapıyorum?
 
-Languages
+- 🧱 Build Battle üzerinde çalışıyorum
+- ⛏️ Minecraft için özel plugin ve sistemler geliştiriyorum
+- 🌱 Java, C#, Python ve JavaScript alanlarında kendimi geliştiriyorum
+- 🎮 Oyun geliştirme üzerine yeni fikirler deniyorum
+- 💡 Aklıma gelen projeleri gerçek uygulamalara dönüştürüyorum
+- 🎧 Kod yazarken müzik dinliyorum
+
+---
+
+🛠️ Teknolojiler
+
+💻 Programlama Dilleri
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css" />
-</p>Tools & Technologies
+</p>🔧 Kullandığım Araçlar
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,dotnet,mysql" />
-</p>Areas I Work With
-
-<p>
-  <img src="https://img.shields.io/badge/Minecraft%20Development-62%25-2E9EF7?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game%20Development-50%25-7B61FF?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-45%25-FF6B35?style=for-the-badge&logo=html5&logoColor=white" />
 </p>---
 
-🚀 Featured Project
+🚀 Öne Çıkan Projem
 
 <a href="https://github.com/EndiKedii/BuildBattle">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=EndiKedii&repo=BuildBattle&theme=tokyonight&hide_border=true" />
 </a>🧱 Build Battle
 
-A Minecraft-based building competition system focused on creating a fun and competitive experience.
+Minecraft üzerinde geliştirdiğim, oyuncuların belirlenen temalara göre yapılar oluşturduğu rekabetçi bir oyun sistemi.
 
-Tech: "Java" "Minecraft" "Spigot/Paper"
+Kullanılan Teknolojiler: "Java" "Minecraft" "Spigot / Paper"
 
 <a href="https://github.com/EndiKedii/BuildBattle">
-  <img src="https://img.shields.io/badge/View%20Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projeyi%20%C4%B0ncele-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
 </a>---
 
-📊 GitHub Statistics
+🎯 İlgi Alanlarım
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EndiKedii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndiKedii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EndiKedii&theme=tokyonight&hide_border=true" />
-</p>---
+- ⛏️ Minecraft Geliştirme
+- 🎮 Oyun Geliştirme
+- 💻 Yazılım Geliştirme
+- 🌐 Web Teknolojileri
+- 🔌 Plugin & API Geliştirme
+- 🧪 Yeni teknolojiler ve deneysel projeler
 
-🎯 What I'm Interested In
-
-Minecraft Development
-        ↓
-Game Systems
-        ↓
-Software Development
-        ↓
-Web Technologies
-        ↓
-New & Experimental Projects
-
-I'm especially interested in projects where software meets gaming.
+Özellikle oyun ve yazılımın birleştiği projeler geliştirmekten keyif alıyorum.
 
 ---
 
-🌟 My Goals
+🌟 Hedeflerim
 
-- 🚀 Build larger and more ambitious projects
-- 🧠 Become a stronger software engineer
-- 🎮 Create unique gaming experiences
-- 🔧 Develop high-quality Minecraft systems
-- 🌐 Build useful web applications
-- 📚 Keep learning new technologies
-- 🤝 Collaborate with other developers
+- 🚀 Daha büyük ve kapsamlı projeler geliştirmek
+- 🧠 Yazılım geliştirme konusunda kendimi ileri taşımak
+- 🎮 Özgün oyun deneyimleri oluşturmak
+- ⛏️ Daha gelişmiş Minecraft sistemleri geliştirmek
+- 🌐 Kullanışlı web uygulamaları oluşturmak
+- 📚 Sürekli yeni teknolojiler öğrenmek
+- 🤝 Diğer geliştiricilerle birlikte projeler geliştirmek
 
 ---
 
-💬 Let's Connect
+📫 Bana Ulaşın
 
 <p align="center">
   <a href="https://github.com/EndiKedii">
@@ -113,7 +97,7 @@ I'm especially interested in projects where software meets gaming.
 </p>---
 
 <p align="center">
-  <i>"Build it. Break it. Learn from it. Build it better."</i>
+  <i>"Fikrini kodla, geliştir, kır, öğren ve daha iyisini yap."</i>
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EndiKedii&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=EndiKedii&style=for-the-badge&color=2E9EF7&label=PROF%C4%B0L+G%C3%96R%C3%9CNT%C3%9CLENME" />
 </p>
