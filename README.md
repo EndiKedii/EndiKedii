@@ -32,14 +32,10 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 💡 Günün Sözü
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EndiKedii&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndiKedii&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://readme-quotes.vercel.app/api?theme=radical" />
 </p>
 
 ---
