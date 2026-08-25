@@ -1,81 +1,119 @@
-<h1 align="center">Merhaba, Ben Endi 👋</h1>
-<h3 align="center">Yazılım Geliştirici | Sürekli Öğrenen | Problem Çözücü</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Kod+yazarken+m%C3%BCzik+dinlerim+%F0%9F%8E%A7;%C5%9Eu+an+Build+Battle+%C3%BCzerinde+%C3%A7al%C4%B1%C5%9F%C4%B1yorum+%F0%9F%9A%80;Python+%7C+Java+%7C+C%23+%7C+HTML" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/EndiKedii"><img src="https://img.shields.io/github/followers/EndiKedii?label=Follow&style=social" /></a>
-</p>
-
----
-
-## 🚀 Hakkımda
-
-- 🔭 Şu an üzerinde çalıştığım proje: **Build Battle**
-- 🌱 Odaklandığım teknolojiler: **Python, Java, C#, HTML**
-- 🎯 Hedefim: Yazılım alanında kendimi sürekli geliştirerek daha büyük ve etkili projelere imza atmak
-- ⚡ İlginç bir gerçek: Kod yazarken arka planda mutlaka müzik dinlerim!
-- 💬 Konuşmaktan keyif aldığım konular: yazılım geliştirme, oyun geliştirme, yeni teknolojiler
-
----
-
-## 🛠️ Teknolojiler ve Araçlar
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EndiKedii&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndiKedii&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EndiKedii&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Öne Çıkan Projeler
-
-<p align="center">
-  <a href="https://github.com/EndiKedii/BuildBattle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EndiKedii&repo=BuildBattle&theme=tokyonight&hide_border=true" />
+<h1 align="center">Hey, I'm Endi 👋</h1><p align="center">
+  <strong>Software Developer • Minecraft Developer • Game Creator</strong>
+</p><p align="center">
+  <a href="https://github.com/EndiKedii">
+    <img src="https://img.shields.io/github/followers/EndiKedii?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
-</p>
+  <a href="https://github.com/EndiKedii?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-2E9EF7?style=for-the-badge&logo=github" />
+  </a>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+projects+%F0%9F%9A%80;Minecraft+Plugin+Developer+%E2%9A%94%EF%B8%8F;Game+%26+Software+Developer+%F0%9F%92%BB;Always+learning.+Always+building." />
+</p>---
 
-> Not: Repo adını kendi projenle eşleştirmen gerekebilir — yukarıdaki `repo=` kısmını GitHub'daki gerçek repo adınla değiştir.
+👨‍💻 About Me
+
+I'm Endi, a software developer who enjoys turning ideas into real, playable and useful projects.
+
+I mainly work with Java, C#, Python and Web Technologies, with a strong interest in Minecraft development, game systems and custom software.
+
+💻 Software Development
+🎮 Game Development
+⛏️ Minecraft Plugins & Systems
+🌐 Web Development
+🧠 Learning & Experimenting
+🚀 Building new ideas
+
+Currently
+
+- 🔭 Working on Build Battle
+- 🧩 Developing custom Minecraft systems & plugins
+- 🌱 Improving my skills in Java, C#, Python & JavaScript
+- 🎮 Exploring game development
+- 💡 Turning random ideas into actual projects
+- 🎧 Coding with music, always
 
 ---
 
-## 💡 Günün Sözü
+🛠️ Tech Stack
 
-> *"Kod yazmak sadece bilgisayara komut vermek değil, dijital dünyada yeni şeyler inşa etmektir."*
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css" />
+</p>Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,dotnet,mysql" />
+</p>Areas I Work With
+
+<p>
+  <img src="https://img.shields.io/badge/Minecraft%20Development-62%25-2E9EF7?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Development-50%25-7B61FF?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Development-45%25-FF6B35?style=for-the-badge&logo=html5&logoColor=white" />
+</p>---
+
+🚀 Featured Project
+
+<a href="https://github.com/EndiKedii/BuildBattle">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EndiKedii&repo=BuildBattle&theme=tokyonight&hide_border=true" />
+</a>🧱 Build Battle
+
+A Minecraft-based building competition system focused on creating a fun and competitive experience.
+
+Tech: "Java" "Minecraft" "Spigot/Paper"
+
+<a href="https://github.com/EndiKedii/BuildBattle">
+  <img src="https://img.shields.io/badge/View%20Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
+</a>---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EndiKedii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndiKedii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EndiKedii&theme=tokyonight&hide_border=true" />
+</p>---
+
+🎯 What I'm Interested In
+
+Minecraft Development
+        ↓
+Game Systems
+        ↓
+Software Development
+        ↓
+Web Technologies
+        ↓
+New & Experimental Projects
+
+I'm especially interested in projects where software meets gaming.
 
 ---
 
-## 📫 Bana Ulaşın
+🌟 My Goals
+
+- 🚀 Build larger and more ambitious projects
+- 🧠 Become a stronger software engineer
+- 🎮 Create unique gaming experiences
+- 🔧 Develop high-quality Minecraft systems
+- 🌐 Build useful web applications
+- 📚 Keep learning new technologies
+- 🤝 Collaborate with other developers
+
+---
+
+💬 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/EndiKedii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+  <a href="https://github.com/EndiKedii">
+    <img src="https://img.shields.io/badge/GitHub-EndiKedii-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EndiKedii&style=flat-square&color=blue" alt="profil görüntülenme sayısı" />
+  <i>"Build it. Break it. Learn from it. Build it better."</i>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EndiKedii&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
 </p>
