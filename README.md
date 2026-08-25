@@ -1,13 +1,13 @@
 <h1 align="center">👋 Merhaba, Ben EndiKedii!</h1>
 
 <p align="center">
-  [Kısa bir motto, örn: Yazılım dünyasında yeni şeyler keşfeden bir geliştirici 🚀]
+  Kendim ve çevrem için yapabildiğim düzeyde projeler ile uğraşıyorum
 </p>
 
 ---
 
 ### 💻 Hakkımda
-* 🔭 Şu anda üzerinde çalıştığım projeler: **[Proje Adı]**
+* 🔭 Şu anda üzerinde çalıştığım projeler: **Build Battle**
 * 🌱 Şu an odaklandığım teknolojiler: **[Örn: Python / JavaScript / Web Teknolojileri]**
 * ⚡ Eğlenceli bir gerçek: Kod yazarken arka planda mutlaka müzik dinlerim!
 
