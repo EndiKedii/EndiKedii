@@ -8,7 +8,7 @@
 
 ### 💻 Hakkımda
 * 🔭 Şu anda üzerinde çalıştığım projeler: **Build Battle**
-* 🌱 Şu an odaklandığım teknolojiler: **[Örn: Python / JavaScript / Web Teknolojileri]**
+* 🌱 Şu an odaklandığım teknolojiler: ** Python , Java , HTML , C# **
 * ⚡ Eğlenceli bir gerçek: Kod yazarken arka planda mutlaka müzik dinlerim!
 
 ---
