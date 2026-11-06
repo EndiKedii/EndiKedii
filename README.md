@@ -35,7 +35,7 @@ Henüz yolun başındayım ve öğrenecek çok şeyim var. Zaten en güzel taraf
 
 [![GitHub](https://img.shields.io/badge/GitHub-EndiKedii-181717?style=flat-square&logo=github)](https://github.com/EndiKedii)
 [![Website](https://img.shields.io/badge/Web-endikedi.com.tr-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://endikedi.com.tr)
-[![Discord](https://img.shields.io/badge/Discord-NotaMC-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/notamc.tr)
+[![Discord](https://img.shields.io/badge/Discord-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ucr47RGduU)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EndiKedii&color=grey&style=flat-square&label=Profil+ziyareti" />
