@@ -1,103 +1,48 @@
-<h1 align="center">Merhaba, Ben Endi 👋</h1><p align="center">
-  <strong>Yazılım Geliştirici • Minecraft Geliştirici • Oyun Geliştirici</strong>
-</p><p align="center">
-  <a href="https://github.com/EndiKedii">
-    <img src="https://img.shields.io/github/followers/EndiKedii?label=Takipçi&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  <a href="https://github.com/EndiKedii?tab=repositories">
-    <img src="https://img.shields.io/badge/Projelerimi%20G%C3%B6r-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fikirleri+ger%C3%A7ek+projelere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum+%F0%9F%9A%80;Minecraft+geli%C5%9Ftiriyorum+%E2%9B%8F%EF%B8%8F;Oyun+ve+yaz%C4%B1l%C4%B1m+geli%C5%9Ftiriyorum+%F0%9F%92%BB;Her+g%C3%BCn+%C3%B6%C4%9Freniyor%2C+her+g%C3%BCn+%C3%BCretiyorum." />
-</p>---
+# Selam, ben EndiKedii! 👋
 
-👨‍💻 Hakkımda
+Her şey biraz merakla başladı. Bir şeylerin nasıl çalıştığını öğrenmek, kafamdaki fikirleri gerçeğe dönüştürmek ve bazen de sırf nasıl olacağını görmek için bir şeyler geliştirmek...
 
-Ben Endi. Fikirleri gerçek, kullanışlı ve eğlenceli projelere dönüştürmeyi seven bir yazılım geliştiriciyim.
+Ben Ömer Faruk. Yazılımla uğraşmayı, yeni şeyler üretmeyi ve öğrendiklerimi kendi projelerime dönüştürmeyi seviyorum.
 
-Ağırlıklı olarak Java, C#, Python ve web teknolojileri ile çalışıyorum. Özellikle Minecraft geliştirme, oyun sistemleri ve özel yazılım projeleri ilgimi çekiyor.
+Genellikle Minecraft ekosistemi, sunucu sistemleri, eklentiler ve web projeleri üzerinde çalışıyorum. Bazen küçük bir fikirle başlayıp kendimi hiç beklemediğim büyüklükte bir projenin içinde bulabiliyorum.
 
-💻 Yazılım Geliştirme
-🎮 Oyun Geliştirme
-⛏️ Minecraft Plugin & Sistem Geliştirme
-🌐 Web Geliştirme
-🧠 Yeni Teknolojiler Öğrenme
-🚀 Yeni Fikirleri Projeye Dönüştürme
-
----
-
-🔭 Şu An Ne Yapıyorum?
-
-- 🧱 Build Battle üzerinde çalışıyorum
-- ⛏️ Minecraft için özel plugin ve sistemler geliştiriyorum
-- 🌱 Java, C#, Python ve JavaScript alanlarında kendimi geliştiriyorum
-- 🎮 Oyun geliştirme üzerine yeni fikirler deniyorum
-- 💡 Aklıma gelen projeleri gerçek uygulamalara dönüştürüyorum
-- 🎧 Kod yazarken müzik dinliyorum
-
----
-
-🛠️ Teknolojiler
-
-💻 Programlama Dilleri
+### 🛠️ Kullandığım teknolojiler
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css" />
-</p>🔧 Kullandığım Araçlar
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,cs,mysql,git,github,vscode,idea" />
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,dotnet,mysql" />
-</p>---
+### 📊 GitHub istatistiklerim
 
-🚀 Öne Çıkan Projem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EndiKedii&show_icons=true&theme=transparent&hide_border=true&locale=tr" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndiKedii&layout=compact&theme=transparent&hide_border=true&locale=tr" height="165" />
+</p>
 
-<a href="https://github.com/EndiKedii/BuildBattle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EndiKedii&repo=BuildBattle&theme=tokyonight&hide_border=true" />
-</a>🧱 Build Battle
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EndiKedii&theme=transparent&hide_border=true&locale=tr" />
+</p>
 
-Minecraft üzerinde geliştirdiğim, oyuncuların belirlenen temalara göre yapılar oluşturduğu rekabetçi bir oyun sistemi.
+### 💭 Biraz da benden bahsedelim
 
-Kullanılan Teknolojiler: "Java" "Minecraft" "Spigot / Paper"
+Burada gördüğün her proje kusursuz olmak zorunda değil. Bazıları üzerinde hâlâ çalıştığım fikirler, bazıları öğrendiklerimin bir sonucu, bazılarıysa sadece denemek istediğim şeyler.
 
-<a href="https://github.com/EndiKedii/BuildBattle">
-  <img src="https://img.shields.io/badge/Projeyi%20%C4%B0ncele-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
-</a>---
+Hata yapmak, bozmak, yeniden başlamak... Geliştirmenin biraz da böyle bir şey olduğunu düşünüyorum.
 
-🎯 İlgi Alanlarım
+Henüz yolun başındayım ve öğrenecek çok şeyim var. Zaten en güzel tarafı da bu.
 
-- ⛏️ Minecraft Geliştirme
-- 🎮 Oyun Geliştirme
-- 💻 Yazılım Geliştirme
-- 🌐 Web Teknolojileri
-- 🔌 Plugin & API Geliştirme
-- 🧪 Yeni teknolojiler ve deneysel projeler
+### 🌐 Bana ulaş
 
-Özellikle oyun ve yazılımın birleştiği projeler geliştirmekten keyif alıyorum.
+[![GitHub](https://img.shields.io/badge/GitHub-EndiKedii-181717?style=flat-square&logo=github)](https://github.com/EndiKedii)
+[![Website](https://img.shields.io/badge/Web-endikedi.com.tr-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://endikedi.com.tr)
+[![Discord](https://img.shields.io/badge/Discord-NotaMC-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/notamc.tr)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EndiKedii&color=grey&style=flat-square&label=Profil+ziyareti" />
+</p>
 
 ---
 
-🌟 Hedeflerim
-
-- 🚀 Daha büyük ve kapsamlı projeler geliştirmek
-- 🧠 Yazılım geliştirme konusunda kendimi ileri taşımak
-- 🎮 Özgün oyun deneyimleri oluşturmak
-- ⛏️ Daha gelişmiş Minecraft sistemleri geliştirmek
-- 🌐 Kullanışlı web uygulamaları oluşturmak
-- 📚 Sürekli yeni teknolojiler öğrenmek
-- 🤝 Diğer geliştiricilerle birlikte projeler geliştirmek
-
----
-
-📫 Bana Ulaşın
-
 <p align="center">
-  <a href="https://github.com/EndiKedii">
-    <img src="https://img.shields.io/badge/GitHub-EndiKedii-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>---
-
-<p align="center">
-  <i>"Fikrini kodla, geliştir, kır, öğren ve daha iyisini yap."</i>
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EndiKedii&style=for-the-badge&color=2E9EF7&label=PROF%C4%B0L+G%C3%96R%C3%9CNT%C3%9CLENME" />
+  <i>Bir şeyler üretmeye, öğrenmeye ve kendimi geliştirmeye devam.</i>
 </p>
