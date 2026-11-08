@@ -1,4 +1,4 @@
-# Selam, ben EndiKedii! 👋
+# Selam, ben EndiKedi! 👋
 
 Her şey biraz merakla başladı. Bir şeylerin nasıl çalıştığını öğrenmek, kafamdaki fikirleri gerçeğe dönüştürmek ve bazen de sırf nasıl olacağını görmek için bir şeyler geliştirmek...
 
@@ -46,5 +46,5 @@ Henüz yolun başındayım ve öğrenecek çok şeyim var. Zaten en güzel taraf
 ---
 
 <p align="center">
-  <i>Bir şeyler üretmeye, öğrenmeye ve kendimi geliştirmeye devam.</i>
+  <i>Son olarak Yung Ouzo dinleyin.</i>
 </p>
