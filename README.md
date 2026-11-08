@@ -35,8 +35,6 @@ Henüz yolun başındayım ve öğrenecek çok şeyim var. Zaten en güzel taraf
 
 [![GitHub](https://img.shields.io/badge/GitHub-EndiKedii-181717?style=flat-square&logo=github)](https://github.com/EndiKedii)
 
-[![Website-Bakımda](https://img.shields.io/badge/Website-endikedi.com.tr-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://endikedi.com.tr)
-
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white)](https://endikedii.github.io/endikedi.github.io/)
 
 [![Discord](https://img.shields.io/badge/Discord-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ucr47RGduU)
